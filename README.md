@@ -6,10 +6,8 @@ Paw’s Hub is a centralized, web-based pet care platform designed to bring toge
 ## 💻 Live Demo
 
 <a href="https://pawshub.infinityfreeapp.com/" target="_blank">
-  🌐 <strong>Visit Pawshub Live Website</strong>
+  🌐 <strong>Visit Paw's Hub Live Website</strong>
 </a>
-
----
 
 ## 🎥 Demo Video
 
@@ -23,7 +21,7 @@ Paw’s Hub is a centralized, web-based pet care platform designed to bring toge
   <strong>Download Project Presentation (PDF)</strong>
 </a>
 
-
+---
 ## Project's Overview
 
 Pet owners often struggle to manage different aspects of pet care across multiple disconnected platforms. Paw’s Hub solves this problem by providing:
