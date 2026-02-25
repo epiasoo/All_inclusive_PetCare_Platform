@@ -2,6 +2,28 @@
 
 Paw’s Hub is a centralized, web-based pet care platform designed to bring together all essential pet-related services into one convenient and user-friendly system. The platform addresses the fragmentation in the pet care industry by integrating service booking, product purchasing, location discovery, and AI-powered assistance into a single ecosystem.
 
+
+## 💻 Live Demo
+
+<a href="https://pawshub.infinityfreeapp.com/" target="_blank">
+  🌐 <strong>Visit Pawshub Live Website</strong>
+</a>
+
+---
+
+## 🎥 Demo Video
+
+<a href="https://drive.google.com/file/d/1WLK_qPKm5PQtWcnpW_7XsyK4GqXwOjch/view?usp=sharing">
+  <img src="images/thumbnail.png" width="400" alt="Paw's Hub Demo Video Thumbnail"/>
+</a>
+
+## 📊 Project Presentation
+
+<a href="presentation/EiPhyuSinOo_PawsHub_Final.pdf">
+  <strong>Download Project Presentation (PDF)</strong>
+</a>
+
+
 ## Project's Overview
 
 Pet owners often struggle to manage different aspects of pet care across multiple disconnected platforms. Paw’s Hub solves this problem by providing:
@@ -170,5 +192,6 @@ http://localhost/your-project-folder
 
 ---
 
+### ⚠️ Demo Version Note Some features in the live demo version may not work properly due to hosting limitations (e.g., free hosting restrictions, server configuration, or database connectivity differences). However, the application works fully and correctly in the local development environment (localhost), where all features have been tested and function as intended.
 
 
