@@ -1,0 +1,24 @@
+body {
+  font-family: "Jost", sans-serif;
+  background-image: url("../images/bg5.jpg");
+  background-size: 40%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
+  background-position: calc(10% - 1px);
+}
+.login {
+  background-color: white;
+  border-radius: 16px;
+}
+
+.register {
+  background-color: white;
+  border-radius: 16px;
+}
+
+@media only screen and (max-width: 600px) {
+  form {
+    width: 100% !important;
+  }
+}
