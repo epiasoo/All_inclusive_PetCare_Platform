@@ -190,6 +190,8 @@ http://localhost/your-project-folder
 
 ---
 
-### ⚠️ Demo Version Note Some features in the live demo version may not work properly due to hosting limitations (e.g., free hosting restrictions, server configuration, or database connectivity differences). However, the application works fully and correctly in the local development environment (localhost), where all features have been tested and function as intended.
+### ⚠️ Demo Version Note 
+
+Some features in the live demo version may not work properly due to hosting limitations (e.g., free hosting restrictions, server configuration, or database connectivity differences). However, the application works fully and correctly in the local development environment (localhost), where all features have been tested and function as intended.
 
 
